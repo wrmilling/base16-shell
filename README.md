@@ -1,4 +1,8 @@
 # Base16 Shell
+This is from a shallow clone of my (@wrmilling) zgen directory after the upstream disappeared. Hosted only to allow my dotfiles to continue to work in the near term. 
+
+---
+
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.  
 These scripts were built with [Base16 Builder PHP](https://github.com/chriskempson/base16-builder-php).
 
